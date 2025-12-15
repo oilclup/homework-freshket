@@ -1,5 +1,8 @@
-Git (optional): For cloning the repository
-cURL or Postman: For testing API endpoints
+## 🔧 Prerequisites
+
+- **Go** version recommended **Go 1.25.4+**
+- **Git** (optional): for cloning the repository
+- **cURL** or **Postman** (optional): for testing API endpoints
 
 Step-by-Step Installation
 Option 1: Clone from Git
