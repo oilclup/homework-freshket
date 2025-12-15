@@ -7,7 +7,7 @@ bash# Clone the repository
 git clone https://github.com/oilclup/homework-freshket.git
 
 # Navigate to project directory
-cd homework_be
+cd homework-freshket
 
 # Download dependencies
 go mod download
