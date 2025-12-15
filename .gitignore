@@ -6,6 +6,8 @@
 
 *.test
 *.tmp
+tmp/
 
+.air.toml.local
 
-bin/
+.DS_Store
